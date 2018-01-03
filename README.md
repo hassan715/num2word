@@ -8,5 +8,5 @@ This library currently supports one type of transformation. In order to use this
 use num2word\NumToWord;
 
 $num2word = new NumToWord();
-$num2word->spellOut('10609');
+$num2word->spellOut('10305'); // output "ten thousand and three hundred five"
 ```
